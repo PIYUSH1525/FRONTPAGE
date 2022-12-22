@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm PIYUSH NEGI</h1>
 <h3 align="center">A passionate developer👨‍💻 and editor from India & working remotely since 2021 🚀</h3>
-<img align="right" alt="coding" width"400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif>
+<img align="right" alt="coding" width"400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
 </div>  
     
   
